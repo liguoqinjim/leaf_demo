@@ -1,4 +1,0 @@
-package: .
-import:
-- package: github.com/name5566/leaf
-- package: github.com/gorilla/websocket
