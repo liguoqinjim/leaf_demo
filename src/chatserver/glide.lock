@@ -1,0 +1,10 @@
+hash: 7ce3d2fd27260284e98555630b11902dbe9067143774209812da463be31cc270
+updated: 2017-11-25T17:27:41.8126542+08:00
+imports:
+- name: github.com/golang/protobuf
+  version: 1e59b77b52bf8e4b449a57e6f79f21226d571845
+- name: github.com/gorilla/websocket
+  version: 23059f29570f0e13fca80ef6aea0f04c11daaa4d
+- name: github.com/name5566/leaf
+  version: b4a5928965598cb0211ce4067f2032889fe0fb66
+testImports: []

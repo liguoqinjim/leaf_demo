@@ -1,0 +1,5 @@
+package: chatserver
+import:
+- package: github.com/name5566/leaf
+- package: github.com/gorilla/websocket
+- package: github.com/golang/protobuf
