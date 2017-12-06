@@ -1,1 +1,3 @@
+*.js linguist-language=Go
+
 bin/leaf_demo/* linguist-vendored
